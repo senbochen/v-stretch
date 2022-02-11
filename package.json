@@ -8,6 +8,10 @@
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/senbochen/v-stretch"
+  },
   "dependencies": {
     "core-js": "^3.8.3",
     "element-ui": "^2.15.6",
